@@ -1,0 +1,2 @@
+# radiestesia
+Publicação de consultas
