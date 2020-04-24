@@ -1,0 +1,37 @@
+Tipo;Nome;Status
+c;Coronario;e
+c;Frontal;e
+c;Laringeo;d
+c;Cardiaco;e
+c;Plexo Solar;e
+c;Sacro;e
+c;Basico;e
+t;Externas;
+i;Energia telurica;e
+i;Energia Provocada;e
+i;Energia de Pessoas;d
+i;Ambiente Familiar;e
+i;Ambiente Profissional;e
+i;Seres fora do fisico;e
+i;Relacionamentos;e
+t;Internas;
+i;Medo;e
+i;Insegurança;d
+i;Sentimento de Culpa;e
+i;Ciumes;e
+i;Violencia;e
+i;Iderias Rigidas;d
+i;Lembranças;e
+t;Partes do corpo;
+i;Faringe;e
+i;Esofago;e
+i;Estomago;d
+i;Pancreas;e
+i;Figado;e
+i;Intestinos;e
+i;Apendice;e
+i;Coracao;d
+t;Outros orgaoes;
+i;Seios;e
+i;Ovarios;d
+i;Boca;e
